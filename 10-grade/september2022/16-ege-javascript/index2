@@ -1,0 +1,29 @@
+const fs = require('fs')
+let origin = fs.readFileSync('./27-B_1.txt').toString()
+let a = 0
+let b = 0
+let doubleArray = []
+let index = 0
+let summ = 0
+let array1 = origin.split('\r\n')
+array1.forEach(element =>
+  {
+    a = Number(element.split(' ')[0])
+    b = Number(element.split(' ')[1])
+
+      if (a>b)
+      {
+        doubleArray[index] = [a,b]
+        summ = summ + a
+      }else
+      {
+        doubleArray[index] = [b,a]
+        summ = summ + b
+      }
+    // console.log(a + ' ' + b + ' ' + index)
+    index++
+  })
+
+
+
+console.log(summ)
