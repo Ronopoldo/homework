@@ -1,0 +1,238 @@
+ABW*Nonmetropolitan Territory of The Netherlands
+AFG*Islamic Emirate
+AFG*Islamic Emirate
+AIA*Dependent Territory of the uK
+ALB*Republic
+AND*Parliamentary Coprincipality
+ANT*Nonmetropolitan Territory of The Netherlands
+ANT*Nonmetropolitan Territory of The Netherlands
+ARE*Emirate Federation
+ARG*Federal Republic
+ARM*Republic
+ASM*uS Territory
+ASM*uS Territory
+ATG*Constitutional Monarchy
+AUS*Constitutional Monarchy, Federation
+AUT*Federal Republic
+AZE*Federal Republic
+BDI*Republic
+BDI*Republic
+BEL*Constitutional Monarchy, Federation
+BEL*Constitutional Monarchy, Federation
+BEL*Constitutional Monarchy, Federation
+BGD*Republic
+BGR*Republic
+BHR*Monarchy (Emirate)
+BIH*Federal Republic
+BLR*Republic
+BLR*Republic
+BLZ*Constitutional Monarchy
+BMU*Dependent Territory of the uK
+BOL*Republic
+BOL*Republic
+BOL*Republic
+BRA*Federal Republic
+BRB*Constitutional Monarchy
+BRN*Monarchy (Sultanate)
+BTN*Monarchy
+CAN*Constitutional Monarchy, Federation
+CAN*Constitutional Monarchy, Federation
+CCK*Territory of Australia
+CHE*Federation
+CHE*Federation
+CHE*Federation
+CHE*Federation
+CHL*Republic
+CHN*People'sRepublic
+COK*Nonmetropolitan Territory of New Zealand
+COL*Republic
+COM*Republic
+CPV*Republic
+CRI*Republic
+CUB*Socialistic Republic
+CXR*Territory of Australia
+CYM*Dependent Territory of the uK
+CYP*Republic
+CYP*Republic
+CZE*Republic
+DEU*Federal Republic
+DJI*Republic
+DNK*Constitutional Monarchy
+DOM*Republic
+DZA*Republic
+ECU*Republic
+EGY*Republic
+ERI*Republic
+ESH*Occupied by Marocco
+ESP*Constitutional Monarchy
+EST*Republic
+FIN*Republic
+FIN*Republic
+FJI*Republic
+FLK*Dependent Territory of the uK
+FRA*Republic
+FRO*Part of Denmark
+FRO*Part of Denmark
+GBR*Constitutional Monarchy
+GEO*Republic
+GIB*Dependent Territory of the uK
+GLP*Overseas Department of France
+GNB*Republic
+GRC*Republic
+GRL*Part of Denmark
+GRL*Part of Denmark
+GTM*Republic
+GUM*uS Territory
+GUM*uS Territory
+HKG*Special Administrative Region of China
+HND*Republic
+HRV*Republic
+HTI*Republic
+HUN*Republic
+IDN*Republic
+IND*Federal Republic
+IRL*Republic
+IRL*Republic
+IRN*Islamic Republic
+IRQ*Republic
+ISL*Republic
+ISR*Republic
+ISR*Republic
+ITA*Republic
+JOR*Constitutional Monarchy
+JPN*Constitutional Monarchy
+KAZ*Republic
+KGZ*Republic
+KGZ*Republic
+KHM*Constitutional Monarchy
+KIR*Republic
+KNA*Constitutional Monarchy
+KOR*Republic
+KWT*Constitutional Monarchy (Emirate)
+LAO*Republic
+LBN*Republic
+LBY*Socialistic State
+LCA*Constitutional Monarchy
+LIE*Constitutional Monarchy
+LKA*Republic
+LKA*Republic
+LSO*Constitutional Monarchy
+LSO*Constitutional Monarchy
+LTU*Republic
+LUX*Constitutional Monarchy
+LUX*Constitutional Monarchy
+LUX*Constitutional Monarchy
+LVA*Republic
+MAC*Special Administrative Region of China
+MAR*Constitutional Monarchy
+MCO*Constitutional Monarchy
+MDA*Republic
+MDG*Federal Republic
+MDG*Federal Republic
+MDV*Republic
+MEX*Federal Republic
+MHL*Republic
+MHL*Republic
+MKD*Republic
+MLT*Republic
+MLT*Republic
+MMR*Republic
+MNG*Republic
+MNP*Commonwealth of the uS
+MSR*Dependent Territory of the uK
+MTQ*Overseas Department of France
+MWI*Republic
+MYS*Constitutional Monarchy, Federation
+MYT*Territorial Collectivity of France
+NCL*Nonmetropolitan Territory of France
+NFK*Territory of Australia
+NIC*Republic
+NIU*Nonmetropolitan Territory of New Zealand
+NLD*Constitutional Monarchy
+NOR*Constitutional Monarchy
+NPL*Constitutional Monarchy
+NRU*Republic
+NRU*Republic
+NZL*Constitutional Monarchy
+OMN*Monarchy (Sultanate)
+PAK*Republic
+PAN*Republic
+PER*Republic
+PER*Republic
+PER*Republic
+PHL*Republic
+PLW*Republic
+PLW*Republic
+POL*Republic
+PRI*Commonwealth of the uS
+PRK*Socialistic Republic
+PRT*Republic
+PRY*Republic
+PRY*Republic
+PYF*Nonmetropolitan Territory of France
+QAT*Monarchy
+ROM*Republic
+ROM*Republic
+RUS*Federal Republic
+RWA*Republic
+RWA*Republic
+SAU*Monarchy
+SDN*Islamic Republic
+SEN*Republic
+SGP*Republic
+SGP*Republic
+SGP*Republic
+SHN*Dependent Territory of the uK
+SJM*Dependent Territory of Norway
+SLV*Republic
+SMR*Republic
+SOM*Republic
+SOM*Republic
+SPM*Territorial Collectivity of France
+SVK*Republic
+SVN*Republic
+SWE*Constitutional Monarchy
+SWZ*Monarchy
+SYC*Republic
+SYC*Republic
+SYR*Republic
+TCA*Dependent Territory of the uK
+TCD*Republic
+TGO*Republic
+TGO*Republic
+THA*Constitutional Monarchy
+TJK*Republic
+TKL*Nonmetropolitan Territory of New Zealand
+TKM*Republic
+TMP*Administrated by the uN
+TON*Monarchy
+TON*Monarchy
+TUN*Republic
+TUR*Republic
+TUV*Constitutional Monarchy
+TUV*Constitutional Monarchy
+TWN*Republic
+TZA*Republic
+UKR*Republic
+UMI*Dependent Territory of the uS
+URY*Republic
+USA*Federal Republic
+UZB*Republic
+VAT*Independent Church State
+VCT*Constitutional Monarchy
+VEN*Federal Republic
+VGB*Dependent Territory of the uK
+VIR*uS Territory
+VNM*Socialistic Republic
+VUT*Republic
+VUT*Republic
+VUT*Republic
+WSM*Parlementary Monarchy
+WSM*Parlementary Monarchy
+YEM*Republic
+YUG*Federal Republic
+ZAF*Republic
+ZAF*Republic
+ZAF*Republic
+ZAF*Republic
+ZWE*Republic
