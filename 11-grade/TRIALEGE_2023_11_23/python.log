@@ -1,0 +1,62 @@
+Python 3.11.1 (tags/v3.11.1:a7a450f, Dec  6 2022, 19:58:39) [MSC v.1934 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> 1024*768
+786432
+>>> 2*1024*1024*1024*8
+17179869184
+>>> 2*1024*1024*1024*8/2048
+8388608.0
+>>> 8388608-(640*1024*8)
+3145728
+>>> 3145728/(1024-768)
+12288.0
+>>> 3145728/(1024*768)
+4.0
+>>> 3*15
+45
+>>> 45/8
+5.625
+>>> 3*15
+45
+>>> 320/20
+16.0
+>>> 16-6
+10
+>>> bin(255)
+'0b11111111'
+>>> bin(192)
+'0b11000000'
+>>> bin(220
+... bin(220)
+  File "<stdin>", line 1
+    bin(220
+        ^^
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+>>>
+KeyboardInterrupt
+>>> bin(220)
+'0b11011100'
+>>> int('11100', 2)
+28
+>>> 2**(2*1024*1024*1024*8/2048-(640*8*1024))/1024/768
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+OverflowError: (34, 'Result too large')
+>>> (2*1024*1024*1024*8/2048-(640*8*1024))/1024/768
+4.0
+>>> 2**(2*1024*1024*1024*8/2048-(640*8*1024))/1024/768
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+OverflowError: (34, 'Result too large')
+>>> 2**int(2*1024*1024*1024*8/2048-(640*8*1024))/1024/768
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+OverflowError: integer division result too large for a float
+>>> 2**int(2*1024*1024*1024*8/2048-(640*8*1024))/1024/768)
+  File "<stdin>", line 1
+    2**int(2*1024*1024*1024*8/2048-(640*8*1024))/1024/768)
+                                                         ^
+SyntaxError: unmatched ')'
+>>> 2**((2*1024*1024*1024*8/2048-(640*8*1024))/1024/768)
+16.0
+>>>
