@@ -55,7 +55,7 @@ for group in groups:
         children+=group[1]
         currentGroupNum += 1
         if (currentGroupNum // 8) < 24:
-            freePlaces[currentGroupNum // 8]  += (4 - group[0])
+            freePlaces[currentGroupNum // 8] += (4 - group[0])
 
     if (group[0] <= 2) and (halfKupe > 0):
         halfKupe-=1
@@ -64,7 +64,8 @@ for group in groups:
         if (currentPairNum // 8) < 24:
             freePlaces[currentPairNum // 8] += (2 - group[0])
     # print(children, max(freePlaces))
-print(children, freePlaces)
+print(freePlaces)
+print(children, freePlaces.index(max(freePlaces)) + 1)
 
 # t = 0
 # for ele in groups:
